@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\bin\Debug\net8.0\JEPCO.Domain.deps.json
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\bin\Debug\net8.0\JEPCO.Domain.dll
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\bin\Debug\net8.0\JEPCO.Domain.pdb
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\obj\Debug\net8.0\JEPCO.Domain.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\obj\Debug\net8.0\JEPCO.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\obj\Debug\net8.0\JEPCO.Domain.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\obj\Debug\net8.0\JEPCO.Domain.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\obj\Debug\net8.0\JEPCO.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\obj\Debug\net8.0\EFCoreNpgsqlNetTopologySuite.cs
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\obj\Debug\net8.0\JEPCO.Domain.dll
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\obj\Debug\net8.0\refint\JEPCO.Domain.dll
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\obj\Debug\net8.0\JEPCO.Domain.pdb
+C:\Users\ASUS\Desktop\JEPCO\JEPCO\JEPCO.Domain\obj\Debug\net8.0\ref\JEPCO.Domain.dll
